@@ -1,1 +1,1 @@
-# SQL crash course with CoRise.
+# SQL course with CoRise.
